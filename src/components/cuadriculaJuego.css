@@ -1,0 +1,7 @@
+input[data-mark="0"] {
+    background-color: white;
+}
+
+input[data-mark="1"] {
+    background-color: gray;
+}
